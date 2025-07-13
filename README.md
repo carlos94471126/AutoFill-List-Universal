@@ -41,6 +41,8 @@ Script Tampermonkey que automatiza o preenchimento de campos com uma lista de it
 
 ![Exemplo da opção ativada no Chrome Extensions](<img width="539" height="839" alt="image" src="https://github.com/user-attachments/assets/4ed75fb2-896c-4e85-9b31-98c944573728" />
 )
+<img width="233" height="114" alt="image" src="https://github.com/user-attachments/assets/90887e51-cd04-4f9d-a39d-7700e135d3b3" />
+
 
 ---
 
